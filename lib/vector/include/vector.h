@@ -40,7 +40,6 @@ void erase_vector(vector_t *vector, unsigned int index);
 int push_back_vector(vector_t *vector, void *data);
 void emplace_back(); // to do
 void pop_back(); // to do
-void resize(); // to do
 void swap(); // to do
 
 /// print
