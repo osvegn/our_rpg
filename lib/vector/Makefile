@@ -7,7 +7,10 @@
 
 SRC		=	source/construct_vector.c \
 			source/destruct_vector.c \
-			source/push_back_vector.c
+			source/push_back_vector.c \
+			source/at_vector.c \
+			source/size_vector.c \
+			source/erase_vector.c \
 
 OBJ		=	${SRC:.c=.o}
 
